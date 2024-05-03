@@ -1,0 +1,14 @@
+cd build
+cmake ..
+make
+./Chelton
+
+Or optionally as one command:
+cd build && cmake .. && make
+then just run ./Chelton
+
+READ ME:
+
+JUST RUN 'make clean build'
+
+I changed it so it automatically runs everything

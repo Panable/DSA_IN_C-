@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/thepanable/Dev/orphaned_projects/at1/build/src",
+  "command": "/usr/bin/c++    -o CMakeFiles/Chelton.dir/Contact.cpp.o -c /home/thepanable/Dev/orphaned_projects/at1/src/Contact.cpp",
+  "file": "/home/thepanable/Dev/orphaned_projects/at1/src/Contact.cpp",
+  "output": "src/CMakeFiles/Chelton.dir/Contact.cpp.o"
+},
+{
+  "directory": "/home/thepanable/Dev/orphaned_projects/at1/build/src",
+  "command": "/usr/bin/c++    -o CMakeFiles/Chelton.dir/ContactList.cpp.o -c /home/thepanable/Dev/orphaned_projects/at1/src/ContactList.cpp",
+  "file": "/home/thepanable/Dev/orphaned_projects/at1/src/ContactList.cpp",
+  "output": "src/CMakeFiles/Chelton.dir/ContactList.cpp.o"
+},
+{
+  "directory": "/home/thepanable/Dev/orphaned_projects/at1/build/src",
+  "command": "/usr/bin/c++    -o CMakeFiles/Chelton.dir/console_menu.cpp.o -c /home/thepanable/Dev/orphaned_projects/at1/src/console_menu.cpp",
+  "file": "/home/thepanable/Dev/orphaned_projects/at1/src/console_menu.cpp",
+  "output": "src/CMakeFiles/Chelton.dir/console_menu.cpp.o"
+},
+{
+  "directory": "/home/thepanable/Dev/orphaned_projects/at1/build/src",
+  "command": "/usr/bin/c++    -o CMakeFiles/Chelton.dir/main.cpp.o -c /home/thepanable/Dev/orphaned_projects/at1/src/main.cpp",
+  "file": "/home/thepanable/Dev/orphaned_projects/at1/src/main.cpp",
+  "output": "src/CMakeFiles/Chelton.dir/main.cpp.o"
+}
+]
